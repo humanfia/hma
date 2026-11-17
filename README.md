@@ -236,7 +236,7 @@ This repository reproduces the paper. To use HMA's fixed-*k* alternation in your
 own work, use `flame_chasoid:fixed_interrupt` from
 [flame-chasoid-flows](https://github.com/humanfia/flame-chasoid-flows#fixed_interrupt),
 which brings it to [humanize](https://github.com/humanfia/humanize) as a flow.
-See the [humanize documentation](https://docs.humanfia.ai/humanize/) for running flows.
+See the [humanize documentation](https://humanfia.ai/humanize/) for running flows.
 
 ## Citation
 
